@@ -1,1 +1,1 @@
-### It is a simple Master-Slave architecture that simulates MapReduce jobs
+##### It is a simple Master-Slave architecture that simulates the working of MapReduce jobs
